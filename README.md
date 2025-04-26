@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning frontend frameworks like React.
 - 💞️ I’m looking to collaborate on exciting frontend projects.
 - 📫 How to reach me @sania-saleem-1aa125347
-- 😄 Pronouns: She/her
 - ⚡ Fun fact: I love coffee 🧋
 
 <!---
