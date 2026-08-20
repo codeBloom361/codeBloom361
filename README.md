@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @codeBloom361
 - 👀 I’m interested in creating cool websites and learning new tech skills.
-- 🌱 I’m currently learning frontend frameworks like React.
-- 💞️ I’m looking to collaborate on exciting frontend projects.
+- 🌱 I’m currently learning full stack development.
+- 💞️ I’m looking to collaborate on frontend projects.
 - 📫 How to reach me @sania-saleem-1aa125347
-- ⚡ Fun fact: I love coffee 🧋
 
 <!---
 codeBloom361/codeBloom361 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
