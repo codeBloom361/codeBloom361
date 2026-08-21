@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codeBloom361
+- 👋 Hi, my name is Sania.
 - 👀 I’m interested in creating cool websites and learning new tech skills.
 - 🌱 I’m currently learning full stack development.
 - 💞️ I’m looking to collaborate on frontend projects.
